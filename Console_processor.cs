@@ -1,5 +1,5 @@
 using System;
-namespace Ikililerin_Toplami{
+namespace Mutlak_Kare_alma{
     public static class Console_processor{
         static List<string> input_list = new List<string>();
         public static List<int > input(){
