@@ -1,0 +1,15 @@
+D:\Mecid_Files\GitHub\Csharp_projects\Mutlak_kare_alma\bin\Debug\net6.0\Mutlak_kare_alma.exe
+D:\Mecid_Files\GitHub\Csharp_projects\Mutlak_kare_alma\bin\Debug\net6.0\Mutlak_kare_alma.deps.json
+D:\Mecid_Files\GitHub\Csharp_projects\Mutlak_kare_alma\bin\Debug\net6.0\Mutlak_kare_alma.runtimeconfig.json
+D:\Mecid_Files\GitHub\Csharp_projects\Mutlak_kare_alma\bin\Debug\net6.0\Mutlak_kare_alma.dll
+D:\Mecid_Files\GitHub\Csharp_projects\Mutlak_kare_alma\bin\Debug\net6.0\ref\Mutlak_kare_alma.dll
+D:\Mecid_Files\GitHub\Csharp_projects\Mutlak_kare_alma\bin\Debug\net6.0\Mutlak_kare_alma.pdb
+D:\Mecid_Files\GitHub\Csharp_projects\Mutlak_kare_alma\obj\Debug\net6.0\Mutlak_kare_alma.csproj.AssemblyReference.cache
+D:\Mecid_Files\GitHub\Csharp_projects\Mutlak_kare_alma\obj\Debug\net6.0\Mutlak_kare_alma.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mecid_Files\GitHub\Csharp_projects\Mutlak_kare_alma\obj\Debug\net6.0\Mutlak_kare_alma.AssemblyInfoInputs.cache
+D:\Mecid_Files\GitHub\Csharp_projects\Mutlak_kare_alma\obj\Debug\net6.0\Mutlak_kare_alma.AssemblyInfo.cs
+D:\Mecid_Files\GitHub\Csharp_projects\Mutlak_kare_alma\obj\Debug\net6.0\Mutlak_kare_alma.csproj.CoreCompileInputs.cache
+D:\Mecid_Files\GitHub\Csharp_projects\Mutlak_kare_alma\obj\Debug\net6.0\Mutlak_kare_alma.dll
+D:\Mecid_Files\GitHub\Csharp_projects\Mutlak_kare_alma\obj\Debug\net6.0\ref\Mutlak_kare_alma.dll
+D:\Mecid_Files\GitHub\Csharp_projects\Mutlak_kare_alma\obj\Debug\net6.0\Mutlak_kare_alma.pdb
+D:\Mecid_Files\GitHub\Csharp_projects\Mutlak_kare_alma\obj\Debug\net6.0\Mutlak_kare_alma.genruntimeconfig.cache
